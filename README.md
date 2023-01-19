@@ -24,16 +24,8 @@ The project contains insights on
 3.Percentage population infected - represented through line chart.
 4.Percentage population infected per country - represented through map chart
 
-
-
-
-
-
-
-
-
-
-
 <h1>Visualization</h1>
+
+https://public.tableau.com/app/profile/ramya.saka/viz/COVIDDashboard_16737002934160/Dashboard1
 
 ![image](https://user-images.githubusercontent.com/121084757/213351040-36641ad9-9c3d-4e9c-a045-6ce681341c88.png)
