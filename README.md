@@ -1,4 +1,10 @@
-# COVID-
+# COVID- Portfolio Project
+
+This repository contains datasets and queries used for COVID portfolio project.
+
+<h1>Datasets used</h1>
+
+
 
 
 
