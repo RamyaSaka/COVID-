@@ -8,7 +8,11 @@ This repository contains datasets and queries used for COVID portfolio project.
 2. **Data Analysis** - SQL
 3. **Visualization tool** - Tableau
 
-<h1>Datasets used</h1>
+<h1>Guide</h1>
+1. Alex the analyst youtube channel
+2. Google
+
+<h1>Source of Datasets</h1>
 
 https://ourworldindata.org/covid-deaths
 
