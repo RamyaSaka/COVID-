@@ -12,7 +12,13 @@ This repository contains datasets and queries used for COVID portfolio project.
 
 https://ourworldindata.org/covid-deaths
 
+<h1>Summary</h1>
 
+The project contains insights on 
+1.Total number of COVID cases, Total number of COVID deaths and Death percentage - represented through KPI's.
+2.Total Deaths per continent - represented through bar chart.
+3.Percentage population infected - represented through line chart.
+4.Percentage population infected per country - represented through map chart
 
 
 
