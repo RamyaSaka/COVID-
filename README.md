@@ -2,7 +2,17 @@
 
 This repository contains datasets and queries used for COVID portfolio project.
 
+<h1>Software used</h1>
+
+**Data Cleaning** - Excel
+**Data Analysis** - SQL
+**Visualization tool** - Tableau
+
 <h1>Datasets used</h1>
+
+https://ourworldindata.org/covid-deaths
+
+
 
 
 
